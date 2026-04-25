@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sensitive / local-only
+.env
+.env.local
+*.secret
+credentials.json
+
+# Temporary files
+tmp/
+*.tmp
+*.log
+
+# Python cache (nếu có script helper)
+__pycache__/
+*.pyc
+*.pyo
