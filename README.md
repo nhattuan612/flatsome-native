@@ -14,16 +14,13 @@
 
 **[🇬🇧 English](#-english) · [🇻🇳 Tiếng Việt](#-tiếng-việt)**
 
-<br/>
-
-### 💬 *"Vibe Code to Flatsome Drag-and-Drop UI"*
-### 💬 *"Vibe Code ra Giao Diện Kéo Thả Flatsome"*
-
 </div>
 
 ---
 
 ## 🇬🇧 ENGLISH
+
+> 💬 *"Vibe Code to Flatsome Drag-and-Drop UI"*
 
 ### 📌 What Is This?
 
@@ -243,6 +240,8 @@ MIT License — see [LICENSE](LICENSE)
 
 ## 🇻🇳 TIẾNG VIỆT
 
+> 💬 *"Vibe Code ra Giao Diện Kéo Thả Flatsome"*
+
 ### 📌 Đây Là Gì?
 
 **Flatsome Native Knowledge Hub** là một hệ điều phối tri thức để build trang WordPress bằng **Flatsome UX Builder** — theo đúng quy trình.
@@ -453,15 +452,6 @@ MIT License — xem [LICENSE](LICENSE)
 ---
 
 <div align="center">
-
-Made with ❤️ for Flatsome UX Builder operators and AI workers
-
-<br/>
-
----
-
-### 💬 *"Vibe Code to Flatsome Drag-and-Drop UI"*
-### 💬 *"Vibe Code ra Giao Diện Kéo Thả Flatsome"*
 
 <br/>
 
