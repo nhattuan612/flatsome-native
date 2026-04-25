@@ -145,7 +145,7 @@ Tuy nhiên còn `3 lỗ hổng chính` cần xử lý để hệ thực sự mư
 
 #### Bằng chứng
 
-- `03-factory/Design Language Reference.md` đang lặp `awesome-design-systems` hai lần trong phần nguồn tham khảo mặc định
+- `03-factory/Design Language Reference.md` đang lặp tên nguồn tham khảo ngoài hai lần trong phần nguồn tham khảo mặc định
 
 #### Tác hại
 

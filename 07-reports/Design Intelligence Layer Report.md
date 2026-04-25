@@ -8,11 +8,11 @@ Tạo thêm một lớp `UI Intelligence` để đi cùng `Flatsome Native Core`
 
 ## Nguồn Hấp Thụ
 
-- `awesome-design-systems`
+- `Global Design Index`
   - lấy:
     - vai trò index
     - breadth của nguồn tham khảo
-- `ui-ux-pro-max-skill`
+- `Advanced UI/UX Framework`
   - lấy:
     - reasoning structure
     - master + override pattern
