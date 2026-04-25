@@ -18,9 +18,21 @@
 
 ---
 
-## 🇬🇧 ENGLISH
-
 > 💬 *"Vibe Code to Flatsome Drag-and-Drop UI"*
+
+### 📥 Installation
+
+```bash
+git clone https://github.com/nhattuan612/flatsome-native.git
+```
+
+### 💻 AI IDE & CLI Compatibility
+
+This hub is designed for seamless integration with:
+- **🤖 Antigravity & Codex**: Native support via `skills/` folder.
+- **💬 Claude Desktop / GPT-4**: High-context ready with `MASTER OPERATING MEMORY.md`.
+- **⌨️ Cursor / VS Code**: Structured markdown for easy workspace indexing.
+- **🚀 Any Agentic CLI**: Optimized for minimal token waste and fast onboarding.
 
 ### 📌 What Is This?
 
@@ -241,6 +253,20 @@ MIT License — see [LICENSE](LICENSE)
 ## 🇻🇳 TIẾNG VIỆT
 
 > 💬 *"Vibe Code ra Giao Diện Kéo Thả Flatsome"*
+
+### 📥 Cài Đặt Qua Terminal
+
+```bash
+git clone https://github.com/nhattuan612/flatsome-native.git
+```
+
+### 💻 Tương Thích AI IDE & CLI
+
+Hệ thống này được tối ưu để chạy mượt trên:
+- **🤖 Antigravity & Codex**: Hỗ trợ native qua thư mục `skills/`.
+- **💬 Claude Desktop / GPT-4**: Nạp tri thức nhanh bằng file `MASTER OPERATING MEMORY.md`.
+- **⌨️ Cursor / VS Code**: Cấu trúc markdown giúp AI Index toàn bộ workspace dễ dàng.
+- **🚀 Mọi Agentic CLI**: Thiết kế tiết kiệm token và onboarding cực nhanh.
 
 ### 📌 Đây Là Gì?
 
