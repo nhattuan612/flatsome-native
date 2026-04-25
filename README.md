@@ -14,6 +14,11 @@
 
 **[🇬🇧 English](#-english) · [🇻🇳 Tiếng Việt](#-tiếng-việt)**
 
+<br/>
+
+### 💬 *"Vibe Code to Flatsome Drag-and-Drop UI"*
+### 💬 *"Vibe Code ra Giao Diện Kéo Thả Flatsome"*
+
 </div>
 
 ---
@@ -450,6 +455,21 @@ MIT License — xem [LICENSE](LICENSE)
 <div align="center">
 
 Made with ❤️ for Flatsome UX Builder operators and AI workers
+
+<br/>
+
+---
+
+### 💬 *"Vibe Code to Flatsome Drag-and-Drop UI"*
+### 💬 *"Vibe Code ra Giao Diện Kéo Thả Flatsome"*
+
+<br/>
+
+*Written by* **Tuấn Vũng Tàu** — *a passionate fan of Flatsome UX Builder* 🏗️
+
+*Viết bởi* **Tuấn Vũng Tàu** — *một Fan hâm mộ Flatsome UX Builder* 🏗️
+
+<br/>
 
 **[⬆ Back to top](#-english)**
 
