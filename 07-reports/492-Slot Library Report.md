@@ -23,13 +23,13 @@
 
 ## Output files
 
-- `VPS/data/flatsome-studio/slot-map.ndjson`
-- `VPS/data/flatsome-studio/slot-map-summary.json`
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/README.md`
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/CATALOG-INDEX.md`
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/categories/*.md`
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/Effects.md`
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/Page Settings.md`
+- `data/ (ngoài hub) flatsome-studio/slot-map.ndjson`
+- `data/ (ngoài hub) flatsome-studio/slot-map-summary.json`
+- `02-platform-studio-library/README.md`
+- `02-platform-studio-library/CATALOG-INDEX.md`
+- `02-platform-studio-library/categories/*.md`
+- `02-platform-studio-library/Effects.md`
+- `02-platform-studio-library/Page Settings.md`
 
 ## Notes
 
@@ -40,13 +40,13 @@
 ## Regeneration
 
 ```bash
-node VPS/scripts/flatsome/flatsome_studio_build_slot_library.js
+node scripts/ (ngoài hub) flatsome/flatsome_studio_build_slot_library.js
 ```
 
 ## Verify
 
 ```bash
-node --test VPS/scripts/flatsome/flatsome_studio_build_slot_library.test.js
-node VPS/scripts/flatsome/flatsome_studio_build_slot_library.js
-wc -l VPS/data/flatsome-studio/slot-map.ndjson
+node --test scripts/ (ngoài hub) flatsome/flatsome_studio_build_slot_library.test.js
+node scripts/ (ngoài hub) flatsome/flatsome_studio_build_slot_library.js
+wc -l data/ (ngoài hub) flatsome-studio/slot-map.ndjson
 ```

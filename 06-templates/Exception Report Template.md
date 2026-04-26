@@ -6,7 +6,7 @@ Date: 2026-04-24
 
 - lưu file theo mẫu `EX-YYYY-MM-DD-XX` + phần mở rộng .md
 - đặt tại thư mục:
-  - `VPS/docs/superpowers/flatsome-native/07-reports/exceptions/`
+  - `07-reports/exceptions/`
 - chỉ dùng khi thật sự là ngoại lệ hiếm
 
 ---

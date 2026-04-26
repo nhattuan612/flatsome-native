@@ -17,7 +17,7 @@ Kịch bản này dùng tiếng Việt hoàn toàn và bám luật gốc:
 
 Các biểu mẫu chuẩn nằm tại:
 
-- `VPS/docs/superpowers/flatsome-native/06-templates/`
+- `06-templates/`
 
 Khi vận hành, phải ưu tiên dùng đúng các mẫu sau:
 
@@ -447,7 +447,7 @@ Chỉ được phép chốt ngoại lệ hiếm nếu:
 
 Khi task dùng shortcode file và cần gate tự động, ưu tiên chạy:
 
-`VPS/tmp/run_flatsome_repair_gate.py`
+`tmp/ (ngoài hub, run_flatsome_repair_gate.py`
 
 Mục tiêu:
 
@@ -475,7 +475,7 @@ Giữ lại tri thức tái sử dụng mà không kéo output trang cụ thể 
 1. Nếu phát hiện pattern native tốt, đưa vào kho tri thức phù hợp.
 2. Nếu phát hiện ngoại lệ hiếm, ghi vào report hoặc log.
 3. Report hoặc log của ngoại lệ phải lưu đúng vị trí chuẩn:
-   - `VPS/docs/superpowers/flatsome-native/07-reports/exceptions/`
+   - `07-reports/exceptions/`
 4. Tên file ngoại lệ phải theo mẫu:
    - `EX-YYYY-MM-DD-XX` + phần mở rộng .md
 5. Không đưa output trang sản phẩm vào lớp tri thức nền tảng.

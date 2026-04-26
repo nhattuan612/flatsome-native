@@ -6,8 +6,8 @@
 
 ## Script
 
-- `VPS/scripts/flatsome/flatsome_studio_direct_harvest.js`
-- `VPS/scripts/flatsome/flatsome_studio_direct_harvest.test.js`
+- `scripts/ (ngoài hub) flatsome/flatsome_studio_direct_harvest.js`
+- `scripts/ (ngoài hub) flatsome/flatsome_studio_direct_harvest.test.js`
 
 ## Đặc tính đã có
 
@@ -21,8 +21,8 @@
 
 ## Verify local
 
-- `node --test VPS/scripts/flatsome/flatsome_studio_direct_harvest.test.js`
-- `node --check VPS/scripts/flatsome/flatsome_studio_direct_harvest.js`
+- `node --test scripts/ (ngoài hub) flatsome/flatsome_studio_direct_harvest.test.js`
+- `node --check scripts/ (ngoài hub) flatsome/flatsome_studio_direct_harvest.js`
 
 ## Kết quả
 
@@ -30,9 +30,9 @@
 - hoàn tất `337` template export
 - `0` fail
 - raw export files:
-  - `337` file trong `VPS/data/flatsome-studio/exports`
+  - `337` file trong `data/flatsome-studio/exports (ngoài hub)`
 - catalog index:
-  - `337` dòng trong `VPS/data/flatsome-studio/catalog.ndjson`
+  - `337` dòng trong `data/ (ngoài hub) flatsome-studio/catalog.ndjson`
 
 ## Mốc cuối
 
@@ -46,11 +46,11 @@
 ## Dữ liệu đầu ra
 
 - state:
-  - `VPS/data/flatsome-studio/harvest-state.json`
+  - `data/ (ngoài hub) flatsome-studio/harvest-state.json`
 - catalog:
-  - `VPS/data/flatsome-studio/catalog.ndjson`
+  - `data/ (ngoài hub) flatsome-studio/catalog.ndjson`
 - exports:
-  - `VPS/data/flatsome-studio/exports/*.json`
+  - `data/flatsome-studio/exports (ngoài hub)/*.json`
 
 ## Kết quả mong muốn
 

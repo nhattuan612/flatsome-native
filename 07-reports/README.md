@@ -36,7 +36,7 @@ Chỉ mở khi cần:
 Một số report lịch sử trong folder này vẫn còn:
 
 - tham chiếu kiểu filename-only như `README.md`, `START HERE.md`
-- đường dẫn cũ kiểu `VPS/docs/superpowers/flatsome-native/...`
+- đường dẫn cũ kiểu `...`
 - mô tả lại trạng thái hệ tại thời điểm report được ghi
 
 Điều này là `evidence lịch sử`, không phải chỉ dẫn vận hành mới nhất.

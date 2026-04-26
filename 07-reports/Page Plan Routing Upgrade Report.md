@@ -10,7 +10,7 @@ Date: 2026-04-24
 
 ### Routing doc mới
 
-- `VPS/docs/superpowers/flatsome-native/03-factory/Page Goal Routing.md`
+- `03-factory/Page Goal Routing.md`
 
 Tài liệu này route brief theo công thức:
 
@@ -42,8 +42,8 @@ Sau nâng cấp này:
 
 ## File đã cập nhật
 
-- `VPS/docs/superpowers/flatsome-native/03-factory/Page Goal Routing.md`
-- `VPS/docs/superpowers/flatsome-native/06-templates/Page Plan Template.md`
-- `VPS/docs/superpowers/flatsome-native/START HERE.md`
-- `VPS/docs/superpowers/flatsome-native/03-factory/Composition Rules.md`
-- `VPS/docs/superpowers/flatsome-native/07-reports/Page Plan Routing Upgrade Report.md`
+- `03-factory/Page Goal Routing.md`
+- `06-templates/Page Plan Template.md`
+- `START HERE.md`
+- `03-factory/Composition Rules.md`
+- `07-reports/Page Plan Routing Upgrade Report.md`

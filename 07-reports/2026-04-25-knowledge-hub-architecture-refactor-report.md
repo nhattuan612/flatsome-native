@@ -15,7 +15,7 @@ Report này ghi lại đợt refactor tài liệu tập trung vào:
 
 - tạo `flatsome-native/MASTER OPERATING MEMORY.md`
 - siết `04-plans/` về `system-upgrade plans only`
-- chuyển page-specific plans ra `VPS/docs/superpowers/specs/page-task-plans/`
+- chuyển page-specific plans ra `specs/page-task-plans/ (ngoài hub)`
 - thêm `README.md` cho các folder còn thiếu
 - làm rõ `README.md` vs `START HERE.md` vs `flatsome-native/MASTER OPERATING MEMORY.md`
 - tách extraction flow và execution role boundaries khỏi lớp platform

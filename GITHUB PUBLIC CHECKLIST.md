@@ -75,7 +75,7 @@ Là phần đưa lên GitHub để người đọc học hệ:
 
 Là phần nên giữ ngoài repo public hoặc dọn trước:
 
-- `VPS/tmp/`
+- `tmp/ (ngoài hub, `
 - page-specific delivery artifacts
 - runtime helper gắn với site thật
 - log thao tác nội bộ

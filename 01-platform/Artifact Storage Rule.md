@@ -40,8 +40,8 @@ Là execution plan cho một page hoặc một task giao hàng cụ thể.
 
 Lưu tại:
 
-- `VPS/docs/superpowers/specs/`
-- hoặc `VPS/docs/superpowers/specs/page-task-plans/`
+- `specs/ (ngoài hub)`
+- hoặc `specs/page-task-plans/ (ngoài hub)`
 
 ### 3. Báo cáo hệ thống
 
@@ -57,7 +57,7 @@ Là mô tả bài toán cụ thể của một page.
 
 Lưu tại:
 
-- `VPS/docs/superpowers/specs/`
+- `specs/ (ngoài hub)`
 
 ### 5. Report theo task / page
 
@@ -65,7 +65,7 @@ Là báo cáo kết quả của một page cụ thể.
 
 Lưu tại:
 
-- `VPS/docs/superpowers/reports/`
+- `reports/ (ngoài hub)`
 
 ### 5b. Report ngoại lệ hiếm
 
@@ -73,13 +73,13 @@ Là report hoặc log cho trường hợp được phê chuẩn lệch chuẩn m
 
 Lưu tại:
 
-- `VPS/docs/superpowers/flatsome-native/07-reports/exceptions/`
+- `07-reports/exceptions/`
 
 ### 6. Shortcode và file thao tác tạm
 
 Lưu tại:
 
-- `VPS/tmp/`
+- `tmp/ (ngoài hub, `
 
 ## Tên File Chuẩn
 
@@ -127,22 +127,22 @@ Tối thiểu phải có:
 ## Mapping Gợi Ý
 
 - `Spec`
-  - `VPS/docs/superpowers/specs/`
+  - `specs/ (ngoài hub)`
 - `Input Contract`
   - có thể nằm trong spec file
   - hoặc là section mở đầu của file page plan theo task
 - `Page Plan`
   - có thể nằm trong spec file hoặc file page plan riêng theo task
 - `Native Build Output`
-  - `VPS/docs/superpowers/reports/`
+  - `reports/ (ngoài hub)`
 - `Audit Checklist`
-  - `VPS/docs/superpowers/reports/`
+  - `reports/ (ngoài hub)`
 - `Fix Pass`
-  - `VPS/docs/superpowers/reports/`
+  - `reports/ (ngoài hub)`
 - `Final Verification`
-  - `VPS/docs/superpowers/reports/`
+  - `reports/ (ngoài hub)`
 - `Shortcode`
-  - `VPS/tmp/`
+  - `tmp/ (ngoài hub, `
 
 ## Optional Artifact
 

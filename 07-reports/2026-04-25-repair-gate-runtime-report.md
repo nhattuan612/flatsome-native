@@ -104,8 +104,8 @@ Result:
 - Evidence:
   - `hidden_post_status = draft`
 - Artifact:
-  - `VPS/docs/superpowers/reports/2026-04-25-repair-gate-broken-probe-fix-pass.md`
-  - `VPS/docs/superpowers/reports/2026-04-25-repair-gate-broken-probe-final-verification.md`
+  - `reports/ (ngoài hub)2026-04-25-repair-gate-broken-probe-fix-pass.md`
+  - `reports/ (ngoài hub)2026-04-25-repair-gate-broken-probe-final-verification.md`
 
 ### Lint Preflight Fail
 
@@ -115,8 +115,8 @@ Result:
 - runtime action:
   - `POST_STATUS skipped-before-wordpress`
 - artifact:
-  - `VPS/docs/superpowers/reports/2026-04-25-repair-gate-lint-probe-fix-pass.md`
-  - `VPS/docs/superpowers/reports/2026-04-25-repair-gate-lint-probe-final-verification.md`
+  - `reports/ (ngoài hub)2026-04-25-repair-gate-lint-probe-fix-pass.md`
+  - `reports/ (ngoài hub)2026-04-25-repair-gate-lint-probe-final-verification.md`
 
 ## Kết Luận
 

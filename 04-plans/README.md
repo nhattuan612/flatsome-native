@@ -33,7 +33,7 @@ Chỉ mở khi cần:
 Một số plan lịch sử trong folder này vẫn còn:
 
 - tham chiếu kiểu filename-only như `README.md`, `START HERE.md`
-- đường dẫn cũ kiểu `VPS/docs/superpowers/flatsome-native/...`
+- đường dẫn cũ kiểu `...`
 - wording theo trạng thái của hệ ở thời điểm plan được viết
 
 Điều này là `giữ nguyên lịch sử`, không phải lỗi route hiện hành.
@@ -54,8 +54,8 @@ Folder này không còn chứa:
 
 Những file đó phải đi về:
 
-- `VPS/docs/superpowers/specs/`
-- hoặc `VPS/docs/superpowers/specs/page-task-plans/`
+- `specs/ (ngoài hub)`
+- hoặc `specs/page-task-plans/ (ngoài hub)`
 
 ## Source Of Truth
 

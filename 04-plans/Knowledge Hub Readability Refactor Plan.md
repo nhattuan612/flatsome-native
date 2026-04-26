@@ -1,6 +1,6 @@
 # Flatsome Knowledge Hub Readability Refactor Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+> **For AI workers:** Execute this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** Tối ưu kho `flatsome-native` để AI và người đọc nắm nhanh hơn, tốn ít token hơn, nhưng không làm mất tri thức đã tích lũy.
 
@@ -13,9 +13,9 @@
 ### Task 1: Chuẩn bị cấu trúc mới
 
 **Files:**
-- Create: `VPS/docs/superpowers/flatsome-native/04-plans/Knowledge Hub Readability Refactor Plan.md`
-- Create: `VPS/docs/superpowers/flatsome-native/09-archive/README.md`
-- Create: `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/README.md`
+- Create: `04-plans/Knowledge Hub Readability Refactor Plan.md`
+- Create: `09-archive/README.md`
+- Create: `01-platform/native-builder-language/README.md`
 
 - [ ] Tạo plan và thư mục mới cho `native-builder-language` và `09-archive`
 - [ ] Xác nhận không đụng dữ liệu harvest gốc
@@ -32,14 +32,14 @@
 ### Task 3: Tách map để đọc nhanh
 
 **Files:**
-- Modify: `VPS/docs/superpowers/flatsome-native/01-platform/Native Builder Language Map.md`
-- Create: `VPS/docs/superpowers/flatsome-native/START HERE.md`
-- Create: `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/01-Overview and Source Rules.md`
-- Create: `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/02-Layout and Structure.md`
-- Create: `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/03-Content and Media.md`
-- Create: `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/04-Commerce and Dynamic.md`
-- Create: `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/05-Aliases and Broad Surface.md`
-- Create: `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/06-Patterns and Workflow.md`
+- Modify: `01-platform/Native Builder Language Map.md`
+- Create: `START HERE.md`
+- Create: `01-platform/native-builder-language/01-Overview and Source Rules.md`
+- Create: `01-platform/native-builder-language/02-Layout and Structure.md`
+- Create: `01-platform/native-builder-language/03-Content and Media.md`
+- Create: `01-platform/native-builder-language/04-Commerce and Dynamic.md`
+- Create: `01-platform/native-builder-language/05-Aliases and Broad Surface.md`
+- Create: `01-platform/native-builder-language/06-Patterns and Workflow.md`
 
 - [ ] Tạo file vào cổng ngắn cho người và AI
 - [ ] Tách nội dung map thành các nhóm logic nhỏ hơn
@@ -48,7 +48,7 @@
 ### Task 4: Cập nhật navigation và verify
 
 **Files:**
-- Modify: `VPS/docs/superpowers/flatsome-native/README.md`
+- Modify: `README.md`
 - Modify: reusable navigation and report references that remain after cleanup
 
 - [ ] Cập nhật README gốc để phản ánh cấu trúc mới

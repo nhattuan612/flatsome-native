@@ -50,7 +50,7 @@ Sau nâng cấp này:
 
 ## File đã cập nhật
 
-- `VPS/docs/superpowers/flatsome-native/03-factory/Section Archetypes.md`
-- `VPS/docs/superpowers/flatsome-native/03-factory/Composition Rules.md`
-- `VPS/docs/superpowers/flatsome-native/03-factory/Block Registry.md`
-- `VPS/docs/superpowers/flatsome-native/07-reports/Factory Pattern Upgrade Report.md`
+- `03-factory/Section Archetypes.md`
+- `03-factory/Composition Rules.md`
+- `03-factory/Block Registry.md`
+- `07-reports/Factory Pattern Upgrade Report.md`

@@ -1,6 +1,6 @@
 # System Integrity Refactor Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+> **For AI workers:** Execute this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
 **Goal:** Vá các lỗ hổng flow đã audit để hệ Flatsome Native nhất quán hơn, dễ dùng hơn, và khó làm rơi artifact hơn sau nhiều lần chỉnh sửa.
 

@@ -6,7 +6,7 @@
 
 ## Phạm vi cập nhật
 
-- nguồn dữ liệu: `337` unique exports trong `VPS/data/flatsome-studio/exports`
+- nguồn dữ liệu: `337` unique exports trong `data/flatsome-studio/exports (ngoài hub)`
 - chuẩn hóa lại `02-platform-studio-library/Effects.md` theo `6` nhóm hành vi
 - map được `34` thuộc tính effect/behavior đã xuất hiện trong dữ liệu harvest
 
@@ -34,6 +34,6 @@
 
 ## File đầu ra
 
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/Effects.md`
-- `VPS/docs/superpowers/flatsome-native/04-plans/Effects Coverage V2 Plan.md`
-- `VPS/docs/superpowers/flatsome-native/07-reports/Effects Coverage V2 Report.md`
+- `02-platform-studio-library/Effects.md`
+- `04-plans/Effects Coverage V2 Plan.md`
+- `07-reports/Effects Coverage V2 Report.md`

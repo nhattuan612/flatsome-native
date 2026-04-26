@@ -24,9 +24,9 @@ Date: 2026-04-24
 
 ### Harvested data
 
-- `VPS/data/flatsome-studio/exports/*.json`
-- `VPS/data/flatsome-studio/catalog.ndjson`
-- `VPS/data/flatsome-studio/slot-map.ndjson`
+- `data/flatsome-studio/exports (ngoài hub)/*.json`
+- `data/ (ngoài hub) flatsome-studio/catalog.ndjson`
+- `data/ (ngoài hub) flatsome-studio/slot-map.ndjson`
 
 ### Runtime attempt
 
@@ -81,9 +81,9 @@ Date: 2026-04-24
 
 ## File đã cập nhật
 
-- `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/03-Content and Media.md`
-- `VPS/docs/superpowers/flatsome-native/07-reports/Official Surface Syntax Capture Report.md`
-- `VPS/docs/superpowers/flatsome-native/07-reports/Unresolved Surface Hunt Report.md`
+- `01-platform/native-builder-language/03-Content and Media.md`
+- `07-reports/Official Surface Syntax Capture Report.md`
+- `07-reports/Unresolved Surface Hunt Report.md`
 
 ## Kết luận
 

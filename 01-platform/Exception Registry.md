@@ -52,7 +52,7 @@ Mỗi ngoại lệ phải có đủ:
 
 Mọi report hoặc log ngoại lệ phải lưu tại:
 
-- `VPS/docs/superpowers/flatsome-native/07-reports/exceptions/`
+- `07-reports/exceptions/`
 
 Tên file bắt buộc theo mẫu:
 

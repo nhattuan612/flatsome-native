@@ -170,14 +170,14 @@ Các pattern có giá trị sản xuất rõ ràng:
 
 ## File đã cập nhật
 
-- `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/01-Overview and Source Rules.md`
-- `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/03-Content and Media.md`
-- `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/04-Commerce and Dynamic.md`
-- `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/05-Aliases and Broad Surface.md`
-- `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/06-Patterns and Workflow.md`
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/Effects.md`
-- `VPS/docs/superpowers/flatsome-native/03-factory/Section Archetypes.md`
-- `VPS/docs/superpowers/flatsome-native/03-factory/Composition Rules.md`
+- `01-platform/native-builder-language/01-Overview and Source Rules.md`
+- `01-platform/native-builder-language/03-Content and Media.md`
+- `01-platform/native-builder-language/04-Commerce and Dynamic.md`
+- `01-platform/native-builder-language/05-Aliases and Broad Surface.md`
+- `01-platform/native-builder-language/06-Patterns and Workflow.md`
+- `02-platform-studio-library/Effects.md`
+- `03-factory/Section Archetypes.md`
+- `03-factory/Composition Rules.md`
 
 ## Kết luận vận hành
 

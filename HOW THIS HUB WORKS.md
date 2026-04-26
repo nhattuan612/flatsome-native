@@ -157,9 +157,9 @@ Là tài liệu gắn với một page hoặc một task cụ thể.
 Không nằm trong lớp core của hub.
 Chúng phải để ở:
 
-- `VPS/docs/superpowers/specs/`
-- `VPS/docs/superpowers/reports/`
-- `VPS/tmp/`
+- `specs/ (ngoài hub)`
+- `reports/ (ngoài hub)`
+- `tmp/ (ngoài hub, `
 
 ## Cách Cập Nhật Hub Mà Không Làm Rối
 

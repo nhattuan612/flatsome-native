@@ -12,10 +12,10 @@
 
 - `data/flatsome-studio/slot-map.ndjson`
 - `data/flatsome-studio/slot-map-summary.json`
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/README.md`
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/CATALOG-INDEX.md`
+- `02-platform-studio-library/README.md`
+- `02-platform-studio-library/CATALOG-INDEX.md`
 - `docs/superpowers/flatsome-native/02-platform-studio-library/categories/*.md`
-- updated `VPS/docs/superpowers/flatsome-native/01-platform/Native Builder Language Map.md`
+- updated `01-platform/Native Builder Language Map.md`
 
 **Execution outline**
 

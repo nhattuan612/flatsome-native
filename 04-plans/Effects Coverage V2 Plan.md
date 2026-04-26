@@ -10,12 +10,12 @@
 
 **Outputs**
 
-- cập nhật `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/Effects.md`
-- thêm `VPS/docs/superpowers/flatsome-native/07-reports/Effects Coverage V2 Report.md`
+- cập nhật `02-platform-studio-library/Effects.md`
+- thêm `07-reports/Effects Coverage V2 Report.md`
 
 **Execution outline**
 
-1. đọc lại `337` export trong `VPS/data/flatsome-studio/exports`
+1. đọc lại `337` export trong `data/flatsome-studio/exports (ngoài hub)`
 2. gom các effect theo nhóm vận hành:
    - overlay and contrast
    - motion and reveal

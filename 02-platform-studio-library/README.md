@@ -60,7 +60,7 @@ Library này tách thành 2 lớp:
 ## Regeneration
 
 ```bash
-node VPS/scripts/flatsome/flatsome_studio_build_slot_library.js
+node scripts/ (ngoài hub) flatsome/flatsome_studio_build_slot_library.js
 ```
 
 ## Rules

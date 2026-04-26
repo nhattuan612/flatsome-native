@@ -10,7 +10,7 @@ Date: 2026-04-24
 
 ### Catalog mới
 
-- `VPS/docs/superpowers/flatsome-native/03-factory/Block Library Candidates.md`
+- `03-factory/Block Library Candidates.md`
 
 Catalog này giữ inventory ứng viên block theo:
 
@@ -44,8 +44,8 @@ Sau bước này:
 
 ## File đã cập nhật
 
-- `VPS/docs/superpowers/flatsome-native/03-factory/Block Library Candidates.md`
-- `VPS/docs/superpowers/flatsome-native/03-factory/Block Registry.md`
-- `VPS/docs/superpowers/flatsome-native/03-factory/Page Goal Routing.md`
-- `VPS/docs/superpowers/flatsome-native/START HERE.md`
-- `VPS/docs/superpowers/flatsome-native/07-reports/Block Library Candidate Catalog Report.md`
+- `03-factory/Block Library Candidates.md`
+- `03-factory/Block Registry.md`
+- `03-factory/Page Goal Routing.md`
+- `START HERE.md`
+- `07-reports/Block Library Candidate Catalog Report.md`

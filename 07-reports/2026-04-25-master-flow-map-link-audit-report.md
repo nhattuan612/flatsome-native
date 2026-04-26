@@ -56,7 +56,7 @@ Trong:
 Còn các mẫu wildcard:
 
 - `docs/superpowers/flatsome-native/02-platform-studio-library/categories/*`
-- `VPS/docs/superpowers/flatsome-native/02-platform-studio-library/categories/*`
+- `02-platform-studio-library/categories/*`
   - đều hiểu là toàn bộ file Markdown trong folder category
 
 Đây là `wildcard inventory`, không phải broken link.

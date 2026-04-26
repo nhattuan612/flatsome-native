@@ -142,7 +142,7 @@ Khi thêm report:
 
 Khi thêm page-specific spec/report:
 
-- để ngoài hub tại `VPS/docs/superpowers/specs/` hoặc `VPS/docs/superpowers/reports/`
+- để ngoài hub tại `specs/ (ngoài hub)` hoặc `reports/ (ngoài hub)`
 
 ## AI Mới Vào Thường Sai Ở Đâu
 

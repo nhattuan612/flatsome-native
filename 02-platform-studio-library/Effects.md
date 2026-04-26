@@ -1,6 +1,6 @@
 # Effects
 
-Data-driven effect map scanned from `337` harvested unique exports in `VPS/data/flatsome-studio/exports`.
+Data-driven effect map scanned from `337` harvested unique exports in `data/flatsome-studio/exports (ngoài hub)`.
 
 ## Coverage
 

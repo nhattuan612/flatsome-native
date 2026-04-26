@@ -107,7 +107,7 @@ thay vì diễn đạt mơ hồ kiểu task phải “có template”.
 
 `01-platform/Artifact Storage Rule.md` đã bổ sung rõ:
 
-- `VPS/docs/superpowers/flatsome-native/07-reports/exceptions/`
+- `07-reports/exceptions/`
 
 Điều này khớp với:
 

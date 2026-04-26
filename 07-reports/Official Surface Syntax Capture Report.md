@@ -14,12 +14,12 @@ Date: 2026-04-24
 
 ### Harvested exports
 
-- `VPS/data/flatsome-studio/exports/3732.json`
-- `VPS/data/flatsome-studio/exports/274.json`
-- `VPS/data/flatsome-studio/exports/15409.json`
-- `VPS/data/flatsome-studio/exports/16953.json`
-- `VPS/data/flatsome-studio/exports/16773.json`
-- `VPS/data/flatsome-studio/exports/590.json`
+- `data/flatsome-studio/exports (ngoài hub)/3732.json`
+- `data/flatsome-studio/exports (ngoài hub)/274.json`
+- `data/flatsome-studio/exports (ngoài hub)/15409.json`
+- `data/flatsome-studio/exports (ngoài hub)/16953.json`
+- `data/flatsome-studio/exports (ngoài hub)/16773.json`
+- `data/flatsome-studio/exports (ngoài hub)/590.json`
 
 ## Surface đã lên mức syntax-complete
 
@@ -95,9 +95,9 @@ Lý do:
 
 ## File đã cập nhật
 
-- `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/03-Content and Media.md`
-- `VPS/docs/superpowers/flatsome-native/01-platform/native-builder-language/04-Commerce and Dynamic.md`
-- `VPS/docs/superpowers/flatsome-native/07-reports/Official Demo Surface Ingestion Report.md`
+- `01-platform/native-builder-language/03-Content and Media.md`
+- `01-platform/native-builder-language/04-Commerce and Dynamic.md`
+- `07-reports/Official Demo Surface Ingestion Report.md`
 
 ## Kết luận vận hành
 
