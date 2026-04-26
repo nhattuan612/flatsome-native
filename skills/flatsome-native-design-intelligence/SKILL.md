@@ -80,5 +80,5 @@ Builder (intake + route) -> Design Intelligence (chọn direction) -> Builder (b
 
 ## Hub Reference
 
-Repo: https://github.com/flatsome-native/flatsome-native
+Repo: https://github.com/nhattuan612/flatsome-native
 File chính: `08-design-intelligence/README.md`, `08-design-intelligence/Design Mode Router.md`

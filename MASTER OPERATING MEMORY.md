@@ -295,7 +295,8 @@ Nếu chỉ thêm bằng chứng:
 
 - ghi vào `07-reports/`
 
-Nếu là page/task cụ thể:
+Nếu là page/task cụ thể (nằm ngoài Hub này):
 
-- dùng `VPS/docs/superpowers/specs/`
-- dùng `VPS/docs/superpowers/reports/`
+- Lưu Spec tại thư mục Specs của dự án
+- Lưu Report tại thư mục Reports của dự án
+- (Ví dụ: `../specs/` hoặc `../reports/` tùy cấu trúc dự án của bạn)

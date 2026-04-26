@@ -103,5 +103,5 @@ Nơi lưu: xem `01-platform/Artifact Storage Rule.md`
 
 ## Hub Reference
 
-Repo: https://github.com/flatsome-native/flatsome-native
+Repo: https://github.com/nhattuan612/flatsome-native
 File chính: `MASTER OPERATING MEMORY.md`, `START HERE.md`

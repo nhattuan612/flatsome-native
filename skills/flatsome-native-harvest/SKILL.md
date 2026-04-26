@@ -66,5 +66,5 @@ Catalog chi tiết: `02-platform-studio-library/CATALOG-INDEX.md`
 
 ## Hub Reference
 
-Repo: https://github.com/flatsome-native/flatsome-native
+Repo: https://github.com/nhattuan612/flatsome-native
 File chính: `02-platform-studio-library/CATALOG-INDEX.md`, `05-flows/Verifiable Harvest Flow.md`
